@@ -1,0 +1,6 @@
+ 
+ DNS_lb : lb-public-195113947.us-east-1.elb.amazonaws.com 
+ publicIP 1: 18.205.159.27    
+ publicIP 2: 44.220.178.225
+ privateIP 1: 10.0.3.38    
+ privateIP 2: 10.0.2.126
